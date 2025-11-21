@@ -26,10 +26,10 @@
     User: <code>student1 / pass</code>
 </p>
 
-<h2>Module 5 / 6 – READ (Movies)</h2>
+<h2>Module 5 / 6 – Movie Lookup (READ)</h2>
 <ul>
     <%-- Needs Updating--%>
-    <li><a href="listMovies.jsp">List all movies (READ)</a> – future JDBC/JavaBeans page</li>
+    <li><a href="movieLookup.jsp">Module 5 & 6 – Movie Lookup (READ)</a> – future JDBC/JavaBeans page</li>
 </ul>
 
 <h2>Future Modules – CRUD</h2>
