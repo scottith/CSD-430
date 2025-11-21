@@ -34,9 +34,9 @@
 
 <h2>Future Modules – CRUD</h2>
 <ul>
-    <li>Create Movie – <code>createMovie.jsp</code> (to be added)</li>
-    <li>Update Movie – <code>updateMovie.jsp</code> (to be added)</li>
-    <li>Delete Movie – <code>deleteMovie.jsp</code> (to be added)</li>
+    <li>Create – <code></code> (to be added)</li>
+    <li>Update – <code></code> (to be added)</li>
+    <li>Delete – <code></code> (to be added)</li>
 </ul>
 </body>
 </html>
